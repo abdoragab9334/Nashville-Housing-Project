@@ -54,7 +54,7 @@ Once the data was cleaned and loaded into Power BI, the following analyses and v
 - **Distribution of vacant vs occupied property sales**
 - **Dynamic slicers for city, year, and land use filters**
 
-### 🧠 Insights Generated:
+### Insights Generated:
 - Identified cities with the highest property activity.
 - Found pricing patterns based on property features and usage type.
 - Observed ownership trends (investor vs local buyer behavior).
@@ -62,11 +62,11 @@ Once the data was cleaned and loaded into Power BI, the following analyses and v
 
 ##  Author
 **[Abdullah Ragab]** – Data Analyst  
-📧 [abdullahragab9334@gmail.com]   
+ [abdullahragab9334@gmail.com]   
 
 ---
 
 ## 📁 Files Included
 - `Nashville Housing.sql` – SQL script for cleaning and transforming raw data.
 - `nashville housing project.pbix` – Power BI dashboard file.
-- `Nashville Housing.png - screanshot.
+- `Nashville Housing.png` - screanshot.
